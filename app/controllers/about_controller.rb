@@ -1,5 +1,4 @@
 class AboutController <ApplicationController
-    def baatar
-
+    def index
     end    
 end
